@@ -1,10 +1,9 @@
 Farbpalette
-FIAE
+
 Rot
-Grün
+Hellgrün
+Dunkelgrün
 Blau
+Gelb
 Magenta
 Sind alles tolle Farben.
-Es kommen noch Dinge dazu
-immerweiter
-IT
