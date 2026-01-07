@@ -6,4 +6,5 @@ Dunkelgrün
 Blau
 Gelb
 Magenta
+Cyan
 Sind alles tolle Farben.
